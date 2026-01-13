@@ -1,2 +1,2 @@
 # Etude-du-Laplacien-de-graphe-et-application-a-l-optimisation-de-reseaux
-On souhaite vérifié qu'un réseau soit suffisamment dense pour
+On souhaite vérifié qu'un réseau soit suffisamment dense pour éviter toutes attaques sur un canal ciblé 
